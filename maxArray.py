@@ -13,4 +13,7 @@ for i in range (0,len(arr)):
         
 print("maximum:",max)
 print("minimum:",min)
+
+print(max)
+print(arr)
   
