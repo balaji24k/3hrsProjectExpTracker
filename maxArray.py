@@ -7,4 +7,5 @@ for i in range (0,len(arr)):
         max=arr[i]
         
 print(max)
+print(arr)
   
